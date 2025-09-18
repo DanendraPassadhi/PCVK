@@ -7,7 +7,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,anaconda" alt="Languange">
+<img src="https://skillicons.dev/icons?i=python" alt="Languange">
 <img src="https://img.icons8.com/?size=48&id=J0SgMWzAxqFj&format=png" alt="jupyter notebook">
 <br>
 <img src="https://skillicons.dev/icons?i=git,vscode" alt="tools"> 
